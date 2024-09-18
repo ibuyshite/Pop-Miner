@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "-----------------------------------------------------------------------------"
-curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/ibuyshite/RB/main/logo.sh | bash
 echo "-----------------------------------------------------------------------------"
 
 show() {
