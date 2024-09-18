@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "-----------------------------------------------------------------------------"
+curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash
+echo "-----------------------------------------------------------------------------"
+
 show() {
     echo -e "\e[1;34m$1\e[0m"
 }
