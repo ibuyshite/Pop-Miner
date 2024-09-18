@@ -1,7 +1,7 @@
 <h2 align=center>PoP mining within Hemi Network</h2>
 
 ## VPS Configuration
-- You can start PoP mining either using VPS or using Ubuntu on your local system, I will go with a normal VPS
+- You can start PoP mining either using VPS or using Ubuntu on your local system, I will go with a normal VPS like Contabo VPS 1
 - Operating System : Ubuntu 22.04
 - RAM : 2 GB, Storage : 50 GB, CPU : 2 Core
 
