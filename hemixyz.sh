@@ -1,5 +1,9 @@
 #!/bin/bash
 
+show() {
+    echo -e "\e[1;34m$1\e[0m"
+}
+
 ARCH=$(uname -m)
 
 show "Checking your system architecture: $ARCH"
