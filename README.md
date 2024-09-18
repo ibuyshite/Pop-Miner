@@ -27,4 +27,4 @@ cat ~/popm-address.json
 - Hemi network team directly did not announce any reward for this but you will earn 1 tHEMI for each transactions. May be in near future, team will give reward to active PoP miners one the basis of tHEMI
 - You can check how many tHEMI you have collected so far using this [block explorer](https://testnet.explorer.hemi.xyz/)
 
-![image](https://github.com/user-attachments/assets/af5fcf19-167b-44e8-b271-dc52363cdda4)
+![image](https://github.com/user-attachments/assets/99218d53-1d07-4337-aeed-a149d91096c2)
