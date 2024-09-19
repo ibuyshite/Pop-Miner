@@ -28,3 +28,5 @@ cat ~/popm-address.json
 - You can check how many tHEMI you have collected so far using this [block explorer](https://testnet.explorer.hemi.xyz/)
 
 ![image](https://github.com/user-attachments/assets/99218d53-1d07-4337-aeed-a149d91096c2)
+
+Created With Help : https://github.com/BidyutRoy2/PoP-mining-within-Hemi-Network
