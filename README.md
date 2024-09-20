@@ -1,5 +1,8 @@
 <h2 align=center>Pop Miner At Work</h2>
 
+![image](https://github.com/user-attachments/assets/40925f39-20e8-410a-b2c8-d2352871d70b)
+
+
 ## VPS Configuration
 - You can start PoP mining either using VPS or using Web Browser
 - Operating System : Ubuntu 22.04
