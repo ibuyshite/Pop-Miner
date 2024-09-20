@@ -1,4 +1,4 @@
-<h2 align=center>PoP mining within Hemi Network</h2>
+<h2 align=center>Pop Miner At Work</h2>
 
 ## VPS Configuration
 - You can start PoP mining either using VPS or using Web Browser
