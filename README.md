@@ -11,7 +11,7 @@
 ```
 - If you want to check logs, use the below command
 ```bash
-screen -r hemipop
+screen -r hemi
 ```
 ![image](https://github.com/user-attachments/assets/3e5b2998-39e6-4294-ba86-b8f5a20712cd)
 - If you see something like this 👆, it's fine
