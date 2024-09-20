@@ -1,5 +1,5 @@
 <h2 align=center>Pop Miner At Work</h2>
-
+https://hemi.xyz/wp-content/themes/hemi/video/header_3840.mp4
 ## VPS Configuration
 - You can start PoP mining either using VPS or using Web Browser
 - Operating System : Ubuntu 22.04
