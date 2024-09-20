@@ -88,7 +88,7 @@ if [ "$choice" == "1" ]; then
                 exit 1
             fi
 
-            show "PoP mining has started in the detached screen session named 'hemipop'."
+            show "PoP mining has started in the detached screen session named 'hemi'."
         fi
     fi
 
@@ -106,7 +106,7 @@ elif [ "$choice" == "2" ]; then
         exit 1
     fi
 
-    show "PoP mining has started in the detached screen session named 'hemipop'."
+    show "PoP mining has started in the detached screen session named 'hemi'."
 else
     show "Invalid choice."
     exit 1
