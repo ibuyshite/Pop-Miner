@@ -80,7 +80,7 @@ if [ "$choice" == "1" ]; then
             echo
             export POPM_BTC_PRIVKEY="$priv_key"
             export POPM_STATIC_FEE="$static_fee"
-            export POPM_BFG_URL="wss://testnet.rpc.hemi.network/v1/ws/public"
+            export POPM_BFG_URL="http://localhost:8383/v1/ws/public"
             
             screen -dmS hemi ./popmd
             if [ $? -ne 0 ]; then
