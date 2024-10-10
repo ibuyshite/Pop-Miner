@@ -37,7 +37,7 @@ if [ "$ARCH" == "x86_64" ]; then
     show "Downloading for x86_64 architecture..."
     wget --quiet --show-progress https://github.com/hemilabs/heminetwork/releases/download/v0.4.4/heminetwork_v0.4.4_linux_arm64.tar.gz -O heminetwork_v0.4.3_linux_arm64.tar.gz
     tar -xzf heminetwork_v0.4.3_linux_arm64.tar.gz > /dev/null
-    cd heminetwork_v0.4.3_linux_amd64 || { show "Failed to change directory."; exit 1; }
+    cd heminetwork_v0.4.3_linux_arm64 || { show "Failed to change directory."; exit 1; }
 
 elif [ "$ARCH" == "arm64" ]; then
     show "Downloading for arm64 architecture..."
